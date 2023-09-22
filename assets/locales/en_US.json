@@ -1,0 +1,32 @@
+{
+  "app": "LM Tube",
+  "buttons": {
+    "login": "Login",
+    "next": "Next",
+    "forget_pwd": "Forget password",
+    "sign_by_pwd": "Login by password",
+    "sign_by_code": "Login by verification code",
+    "resend_code": "Resend code",
+    "sign_by_voice_code": "Login by voice code"
+  },
+  "login_type": {
+    "username": "Login by account",
+    "code": "Login by verification code",
+    "code_desc": "If don't have account, will automatically create."
+  },
+  "input": {
+    "phone": "Please input phone number",
+    "username": "username",
+    "password": "password"
+  },
+  "tips": {
+    "agreement_agree": "I have read and agree to the",
+    "agreement_user": "User Agreement",
+    "agreement_privacy": "Privacy Policy",
+    "auth_service_support": "Authentication Support By China Telecom"
+  },
+  "error_codes": {
+    "100101": "username not found",
+    "100102": "username or password invalid"
+  }
+}
